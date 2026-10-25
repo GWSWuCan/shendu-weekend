@@ -1,8 +1,8 @@
 # 神都周末 🏮 洛阳文旅 AI 向导（从河科大出发）
 
-> 面向河南科技大学学生的周末出行决策工具——输入「时间 × 预算 × 兴趣」，本地规则引擎生成含**学生半价门票、地铁接驳、末班车预警**的行程敕敕牒。
+> 面向河南科技大学学生的周末出行决策工具——输入「时间 × 预算 × 兴趣」，本地规则引擎生成含**学生半价门票、地铁接驳、末班车预警**的行程敕牒。
 
-**🚀 在线体验**：`https://<你的用户名>.github.io/shendu-weekend/`
+**🚀 在线体验**：` https://gwswucan.github.io/shendu-weekend/`
 **📦 源码直链**（华为云 OBS，点开即下载）：`https://shendu-weekend-haust.obs.cn-north-4.myhuaweicloud.com/index.html`
 
 ---
